@@ -6,7 +6,7 @@ Bu proje, üniversitedeki Mobil Uygulamalar dersi kapsamında final sınavında 
 
 Sınav sırasında 60 dakikalık süre içinde sıfırdan geliştirildi.
 
-Android Studio üzerinde Java/Kotlin dili kullanılarak yazıldı.
+Android Studio üzerinde Java dili kullanılarak yazıldı.
 
 SQLite veritabanı ile veriler kalıcı olarak saklanmaktadır.
 
